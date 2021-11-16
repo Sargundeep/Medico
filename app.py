@@ -125,7 +125,7 @@ def check():
     else:
         GE=2  
     d=[[age,SM,YF,AN,PP,CD,AC,FA,AL,WH,CO,SB,SD,CP,GE]]
-    with open("lung cancer.model","rb") as f:
+    with open("./lung cancer.model","rb") as f:
         model=pickle.load(f)
     res=model.predict(d)
     res=res[0]
