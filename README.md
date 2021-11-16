@@ -21,8 +21,6 @@ The Tech Stak used in this project is :
 - 95% Accurate Predictions of Lung Camcer Detection
 - When subscribed to the mailing list, the user gets regular updates,news,remedialmeasures, inspiring stories via mail.
 ---
-
----
 ### Installation for this project :
 ```
 pip install flask
@@ -54,3 +52,6 @@ pip install pandas
 ---
 
 <h3 align="center"><b>Developed with :heart: by <a href="https://github.com/Sargundeep">Sargundeep Sachdeo</a>
+ 
+
+<h3 align="center"><b>Check the <a href="https://medicoflaskapp.herokuapp.com/">Deployed App :heart: </a>
