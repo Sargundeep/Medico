@@ -10,12 +10,12 @@
  -->
 A ML based project which involves prediction of Lung Cancer based on various factors.Here, the ML model is generated using RandomForestClassifier.
 The Tech Stak used in this project is :
--Python
--Flask
--Machine Learning
--Sqlite3
+- Python
+- Flask
+- Machine Learning
+- Sqlite3
 
-
+---
 ## Features
 
 - 95% Accurate Predictions of Lung Camcer Detection
@@ -30,9 +30,8 @@ pip install flask-mail
 pip install sklearn
 pip install matplotlib
 pip install pandas
-
+```
 ---
-
 ### Making a Virtual Environment:
  ```
  -Step1: Create a Virtual Environment.For this, use the below command
@@ -46,9 +45,7 @@ pip install pandas
              
                 
  ```
- 
  ---
- 
  ### Run the Code
 ```
     python app.py
