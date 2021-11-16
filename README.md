@@ -54,4 +54,4 @@ pip install pandas
 <h3 align="center"><b>Developed with :heart: by <a href="https://github.com/Sargundeep">Sargundeep Sachdeo</a>
  
 
-<h3 align="center"><b>Check the <a href="https://medicoflaskapp.herokuapp.com/">Deployed App :heart: </a>
+<h5 align="center"><b>Check the <a href="https://medicoflaskapp.herokuapp.com/">Deployed App :heart: </a>
