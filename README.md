@@ -9,7 +9,7 @@
 [![Downloads](https://pepy.tech/badge/invoice)](https://poppler.freedesktop.org/)
  -->
 A ML based project which involves prediction of Lung Cancer based on various factors.Here, the ML model is generated using RandomForestClassifier.
-The Tech Stak used in this project is :
+The Tech Stack used in this project is :
 - Python
 - Flask
 - Machine Learning
@@ -18,7 +18,7 @@ The Tech Stak used in this project is :
 ---
 ## Features
 
-- 95% Accurate Predictions of Lung Camcer Detection
+- 95% Accurate Predictions of Lung Cancer Detection
 - When subscribed to the mailing list, the user gets regular updates,news,remedialmeasures, inspiring stories via mail.
 ---
 ### Installation for this project :
